@@ -53,3 +53,11 @@ The Detailed Analysis page provides deeper insights into:
 The Power BI dashboard is available in:
 
 `Blinkit Sales Dashboard.pbix`
+
+## Dashboard Preview
+
+### Overview
+![Blinkit Sales Dashboard Overview](dashboard/overview.png)
+
+### Detailed Analysis
+![Blinkit Sales Dashboard Detailed Analysis](dashboard/detailed-analysis.png)
